@@ -1,4 +1,4 @@
-Followed: https://dotnetplaybook.com/deploy-a-net-core-api-with-docker/
+Followed: https://dotnetplaybook.com/deploy-a-net-core-api-with-docker/  
 https://docs.microsoft.com/en-us/dotnet/core/docker/build-container?tabs=windows
 
 Line 2: So that the Docker Engine can compile our app, we grab the .NET SDK from Microsoft*
